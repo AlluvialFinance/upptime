@@ -5,10 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Alluvial API
     url: https://api.alluvial.finance
-  - name: Alluvial Staging
+  - name: Alluvial API Staging
     url: https://api.staging.alluvial.finance
-  - name: Liquid Collective DApp
-    url: https://dapp.alluvial.finance
   - name: Liquid Collective Website
     url: https://liquidcollective.io
   - name: Alluvial Website
@@ -19,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.alluvial.finance
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/AlluvialFinance/upptime/master/logo.svg
   name: Alluvial
   introTitle: "**Alluvial**, building the enterprise-grade liquid staking standard"
 
