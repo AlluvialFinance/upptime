@@ -1,7 +1,7 @@
 url: https://api.staging.alluvial.finance
-status: down
-code: 503
-responseTime: 494
-lastUpdated: 2022-11-09T09:18:33.028Z
+status: up
+code: 200
+responseTime: 422
+lastUpdated: 2022-11-09T09:30:53.414Z
 startTime: Tue Oct 18 2022 08:59:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
